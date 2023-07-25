@@ -1,9 +1,4 @@
-import {
-  Navigate,
-  Route,
-  BrowserRouter as Router,
-  Routes,
-} from "react-router-dom";
+import {Navigate,Route,BrowserRouter as Router,Routes,} from "react-router-dom";
 import Header from "./components/Header";
 import Summary from "./components/Summary";
 import WalletProvider from "./context/walletContext";
